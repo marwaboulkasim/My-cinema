@@ -1,0 +1,55 @@
+body {
+  background-image: url(1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+ 
+} 
+
+html {
+  background-color:black;
+  border-left-color: aliceblue;
+  font-weight: bold;
+  font-size: 1em;
+  color: white;
+ 
+
+}
+/*BOX CHERCHER FILM*/
+ h1 {
+  color: white;
+  margin: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+.mycine {
+  border:#a0522d;
+  border-style: outset;
+  border-radius: 20px;
+  height: 50px;
+  font-weight: bold;
+}
+.search {
+  display: inline-table;
+  padding: 40px;
+  padding-bottom: 15px;
+  padding-top: 0px;
+  margin-bottom: 20px; 
+   margin-left: 8%;
+  border: rgb(243, 236, 236);
+  border-style: outset;
+  border-radius: 15px;
+  width: 200px;
+  padding: 100;
+  border:2px solid white;
+}
+
+.button-search {
+  margin-top: 25px;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+input {
+  margin-left: 13px;
+}
+ 
